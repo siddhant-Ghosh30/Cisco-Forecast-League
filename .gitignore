@@ -1,0 +1,5 @@
+# Ignore all Excel files
+*.xlsx
+
+# But keep the final prediction output file
+!XGBoost_vs_Prophet_Predictions.xlsx
