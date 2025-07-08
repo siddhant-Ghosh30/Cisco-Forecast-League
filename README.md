@@ -1,4 +1,4 @@
-# Cisco Sales Forecasting - FY'25 | Data Pioneers
+# Cisco Forecast League - FY'25 | Data Pioneers
 
 This project was built for the **Cisco Forecast League FY'25** where my team **Data Pioneers** forecasted quarterly sales for real-life Cisco products using machine learning and time series modeling.
 
